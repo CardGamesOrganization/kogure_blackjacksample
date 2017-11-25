@@ -1,0 +1,9 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+!*.pch
+
+build/
